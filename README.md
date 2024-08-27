@@ -1,2 +1,3 @@
 # JsProject-JavaScript-Background-Color-Switcher
-JavaScript Background Color Switcher This repository contains a simple project that allows users to switch the background color of a webpage by clicking on different color options. The project is built using HTML, CSS, and JavaScript.
+
+This project is a simple background color switcher built using HTML, CSS, and JavaScript. The page allows users to change the background color by clicking on one of the provided color options. It's a basic demonstration of event handling and DOM manipulation in JavaScript.
